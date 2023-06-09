@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting with Boss",
+      "day": "June 26th",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Flight to Canada",
+      "day": "July 1st",
+      "reminder": true
+    },
+    {
+      "text": "Go to MT",
+      "day": "Aug 24th",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Head to MSP",
+      "day": "Now",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
