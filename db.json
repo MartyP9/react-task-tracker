@@ -19,9 +19,9 @@
       "id": 4
     },
     {
-      "text": "Head to MSP",
-      "day": "Now",
-      "reminder": false,
+      "text": "Call Mom",
+      "day": "June 24",
+      "reminder": true,
       "id": 5
     }
   ]
